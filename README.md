@@ -7,6 +7,8 @@
 	
         a {
             display: block;
+            font-family: Courier New;
+            color: #24B3D1
         }
     </style>
 </head>
@@ -17,19 +19,32 @@
     <a href="crash bandicoot.html">Crash Bandicoot</a>
     <a href="forest_adventure.html">Forest Adventure</a>
     <a href="gd_nes.html">Geometry Dash NES</a>
+    <a href="kirby_adventure_nes.html">Kirby's Adventure</a>
+    <a href="negaman.html">Megaman</a>
     <a href="mario16.html">Mario 16</a>
-    <a href="n.html">NegaKiller</a>
-    <a href="negaman.html">Negaman</a>
+    <a href="metroid.html">Metroid</a>
     <a href="pvz.html">PVZ 3 100% real</a>
     <a href="resident.html">Resident Evil po chińsku</a>
     <a href="realmario.html">SUPER GAME MARIO 30-IN-1 REAL GAME</a>
     <a href="supermario.html">Super Mario Bros</a>
     <a href="mario2.html">Super Mario Bros 2</a>
     <a href="mario3.html">Super Mario Bros 3</a>
+    <img height="80" width="200" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Nintendo_Game_Boy_Logo.svg/3840px-Nintendo_Game_Boy_Logo.svg.png">
+    <a href="kirby_gb.html">Kirby's Dream Land</a>
+    <a href="kirby_gb_2.html">Kirby's Dream Land 2</a>
+    <a href="pokemon_blue.html">Pokemon - Blue Version</a>
+    <a href="pokemon_red.html">Pokemon - Red Version</a>
+    <a href="mario_land.html">Super Mario Land</a>
+    <a href="tetris_gb.html">Tetris</a>
     <img height="80" width="200" src="https://a.allegroimg.com/original/11c7f8/16a344c4441eacdd4752c460b532/OKNO-KacprzaK-170X140-OKNA-PCV-NOWE-1700x1400-Okna-od-reki-Okno-biale-RU-R">
     <a href="deltaube.html">Deltarune (Chapter 1-5)</a>
+    <a href="doom_dos.html">Doom I + Doom II</a>
     <a href="hollow_knight.html">Hollow Knight</a>
     <img height="80" width="200" src="https://th.bing.com/th/id/R.6527a1088fab5fdd5b5ab7540c22d0ea?rik=sxiumf9hDb%2f%2f%2fQ&pid=ImgRaw&r=0">
     <a href="pvz_ds.html">Plants Vs Zombies DS</a>
+    <a href="pokemon_platinum.html">Pokemon - Platinum Version</a>
+    <img height="80" width="200" src="https://logodix.com/logo/1930060.png">
+    <a href="pepsiman_psx.html">Pepsiman</a>
+    <a href="herakokahaszlsd.html">LSD - Dream Emulator</a>
 </body>
 </html>
